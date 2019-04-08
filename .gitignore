@@ -1,0 +1,9 @@
+#----Custom extensions----#
+#If there's an issue comment these out.
+# Compiled Object files
+*.o
+*.a
+*.exe
+*.dll
+*.zip
+*.7z

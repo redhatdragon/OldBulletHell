@@ -1,0 +1,35 @@
+BEFORE YOU EDIT/COMPILE
+Ask dmz for instructions on how to install gcc
+as you'll likely need help setting up pathing
+to the compiler.  Also this is 32 bit gcc.
+If you already know how to do this or have done
+so already then i tip my hat to you.
+
+WHAT IS GCC?
+A general c compiler that'll rock your world!
+It handles a variaty of languages if set up
+correctly but is cross compilable and cross
+platform.  It's biggest bonus is the ability
+to mix c, c++, and assembly easily and locally.
+None of that dependency bullshit from visual
+studio.  BYE-BYE Microsoft stupidity.
+
+If you wish to make an edit to the code that's
+someone elses responsibility either ask them
+before hand or copy everything from the DMZ
+folder into another with your name on it THEN
+edit what you want.  This prevents github
+from complaining and preventing us from pushing;
+pulling new content.
+
+Don't worry everything is locally scoped.
+
+If your a level editor you need to coordinate
+with whoever else is editing the level.  Otherwise
+don't worry because anything you do won't effect the
+programmers and vice versa.  Just as long as all the
+"level->spawnActor(*new blablabla)" is inside a txt
+file sitting inside the SpawnList folder.
+
+In honesty since we are such a small group i wonder how
+many people will actually read this?lol

@@ -1,0 +1,3 @@
+level->addActor(*new EnemyPawn1(1425, 775));
+level->addActor(*new EnemyPawn1(1425, 825));
+level->addActor(*new EnemyPawn1(1425, 875));

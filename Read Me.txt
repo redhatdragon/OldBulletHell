@@ -1,0 +1,22 @@
+BEFORE YOU EDIT/COMPILE
+Ask dmz for instructions on how to install gcc
+as you'll likely need help setting up pathing
+to the compiler.  Also this is 32 bit gcc.
+
+WHAT IS GCC?
+A general c compiler that'll rock your world!
+It handles a variaty of languages if set up
+correctly but is cross compilable and cross
+platform.  It's biggest bonus is the ability
+to mix c, c++, and assembly easily and locally.
+None of that dependency bullshit form visual
+studio.  BYE-BYE Microsoft stupidity.
+
+DMZ is the main folder which is the domain of dmz.
+If you wish to make an edit just copy the contents
+of the DMZ folder and paste it in a folder with
+your name and recommend DMZ to look at it.  Don't
+worry whatever changes you made will be looked at
+and taken into consideration for the main copy.
+
+Don't worry everything is locally scoped.
